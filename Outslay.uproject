@@ -41,6 +41,14 @@
 			"Name": "AdvancedSightsAndScopes",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/19c729aab9394c2ea95fe08eeb65629d"
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
