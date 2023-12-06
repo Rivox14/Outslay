@@ -73,5 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# LF Files
+# remove textures
 Content/CyberMan/Man/*
+Content/TropicalFoliage/Textures/*
