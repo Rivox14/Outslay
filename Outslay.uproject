@@ -11,7 +11,6 @@
 				"Editor"
 			]
 		},
-		
 		{
 			"Name": "Spatialization",
 			"Enabled": true
@@ -47,6 +46,14 @@
 			"Name": "ComponentTimeline",
 			"Enabled": true,
 			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/a861fe34f1f94dcca67cdb2ce376bd24"
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGGeometryScriptInterop",
+			"Enabled": true
 		}
 	]
 }
