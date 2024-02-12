@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{8E4319D1-412B-9D01-19F3-0BB3C0CC18FD}",
+	"EngineAssociation": "{4BBC1333-448D-0307-B6E1-89BCEE6B46BA}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -80,8 +80,7 @@
 				"Mac"
 			]
 		},
-
-	{
+		{
 			"Name": "AnimationLocomotionLibrary",
 			"Enabled": true
 		},
