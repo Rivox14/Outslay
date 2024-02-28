@@ -95,6 +95,10 @@
 		{
 			"Name": "AudioModulation",
 			"Enabled": true
+		},
+		{
+			"Name": "DidItHit",
+			"Enabled": true
 		}
 	]
 }
