@@ -99,6 +99,10 @@
 		{
 			"Name": "DidItHit",
 			"Enabled": true
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
 		}
 	]
 }
