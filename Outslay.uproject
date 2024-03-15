@@ -104,5 +104,10 @@
 			"Name": "JsonBlueprintUtilities",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"PS4",
+		"PS5",
+		"Windows"
 	]
 }
