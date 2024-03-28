@@ -20,19 +20,9 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GBWThrow",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4791c945eada4b258c3e9796dd1c43fb"
-		},
-		{
 			"Name": "EasyBallistics",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bbecde0f66914263b57fd2af5a0c7ffe"
-		},
-		{
-			"Name": "AdvancedSightsAndScopes",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/19c729aab9394c2ea95fe08eeb65629d"
 		},
 		{
 			"Name": "WaterExtras",
@@ -108,6 +98,7 @@
 	"TargetPlatforms": [
 		"PS4",
 		"PS5",
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
